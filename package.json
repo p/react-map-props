@@ -1,6 +1,6 @@
 {
-  "name": "react-map-props",
-  "version": "0.1.0",
+  "name": "@rq/react-map-props",
+  "version": "0.1.1",
   "description": "Transform component props before they're passed to your component",
   "main": "lib/index.js",
   "scripts": {
@@ -43,7 +43,6 @@
     "react": "^15.0.1",
     "react-dom": "^15.0.1",
     "react-router": "^2.3.0",
-    "react-test-renderer": "^16.6.1",
     "rimraf": "^2.5.2",
     "webpack": "^1.13.0",
     "webpack-dev-server": "^1.14.1"
